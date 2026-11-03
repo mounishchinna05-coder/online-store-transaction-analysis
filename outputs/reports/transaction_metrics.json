@@ -1,0 +1,11 @@
+{
+  "total_orders": 12,
+  "completed_orders": 8,
+  "completed_sales_value": 12268.0,
+  "average_order_value": 1533.5,
+  "median_completed_order_value": 1447.0,
+  "std_completed_order_value": 576.66,
+  "cancelled_orders": 2,
+  "refunded_orders": 1,
+  "pending_orders": 1
+}
